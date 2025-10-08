@@ -1,6 +1,8 @@
 # 💫 About Me:
- Hi, I'm Ola — a Management Information Systems student at Covenant University passionate about data science, AI, and software (backend)development. I love exploring how intelligent systems work, experimenting with new technologies, and turning ideas into useful projects. Right now, I’m focused on developing backends with FastAPI, and integrating it with complex AI concepts. I enjoy collaborating with developers, writers, and students interested in data-driven or open-source projects, and I’m always open to guidance on AI model deployment and data pipeline development. I’m currently learning prompt engineering, LangChain for ai  for backend design. You can ask me about AI tools, data workflows, or how to stay consistent with learning and coding. ⚡ Fun fact: I love football and i'm a massive spurs fan
-
+I’m Ola — a Management Information Systems student at Covenant University with a growing passion for AI and backend development. 
+Lately, I’ve been diving into FastAPI, experimenting with ways to integrate LLMs and machine learning models into real applications....I’ve also been exploring prompt engineering and LangChain to understand how modern AI systems think and respond.
+I’m open to collaborating with developers and creators in the AI and software development field...let's build something cool.
+⚡Fun fact: I’m a big football fan and a massive Spurs supporter (even when it’s stressful 😅).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yr.ola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/oyeniran-olaoluwa-a54772316) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oyeniranolaoluwaemma@gmail.com) 
